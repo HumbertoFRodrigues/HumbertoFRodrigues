@@ -16,9 +16,8 @@ Aqui você encontrará alguns dos meus projetos e interesses na área de tecnolo
 ## Conecte-se Comigo
 
 Me encontre online e vamos conversar! 😊
-
-[<img align="left" alt="instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />](https://instagram.com/humberto.frodrigues)
-[<img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />](link_do_seu_perfil_no_Twitter)
+https://instagram.com/humberto.frodrigues
+Email: humbertofranciscorodriguez@gmail.com
 
 <br />
 
