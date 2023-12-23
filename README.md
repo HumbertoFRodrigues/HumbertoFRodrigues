@@ -16,9 +16,10 @@ Aqui você encontrará alguns dos meus projetos e interesses na área de tecnolo
 ## Conecte-se Comigo
 
 Me encontre online e vamos conversar! 😊
-https://instagram.com/humberto.frodrigues
-Email: humbertofranciscorodriguez@gmail.com
 
+Email: 
+- [Instagram](https://instagram.com/humberto.frodrigues)
+- [E-mail](mailto:humbertofranciscorodriguez@gmail.com)
 <br />
 
 ## Linguagens e Ferramentas
