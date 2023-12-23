@@ -27,7 +27,6 @@ Email:
 - 🚀 Algumas linguagens: C++, Python, JavaScript, php
 - 🔧 Ferramentas: VSCode, Git,
 
-
 Espero que você encontre algo interessante por aqui! 😄
 
 <!---
