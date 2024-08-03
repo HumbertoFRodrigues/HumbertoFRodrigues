@@ -17,7 +17,7 @@ Aqui você encontrará alguns dos meus projetos e interesses na área de tecnolo
 
 Me encontre online e vamos conversar! 😊
 
-Email: 
+Email: humberto.rodrigues@unizambeze.ac.mz
 - [Instagram](https://instagram.com/humberto.frodrigues)
 - [E-mail](mailto:humbertofranciscorodriguez@gmail.com)
 
